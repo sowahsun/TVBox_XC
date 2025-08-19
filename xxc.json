@@ -283,13 +283,13 @@
                 "分类url": "https://www.iysdq.cc/vodshow/{cateId}-{area}-------{catePg}---.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
             }
-        }，
+        },
         {
             "key": "永乐",
             "name": "🍰永乐",
             "type": 3,
-            "api": "csp_XBPQ"，
-            "searchable": 1，
+            "api": "csp_XBPQ",
+            "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
@@ -303,19 +303,19 @@
         {
             "key": "面包",
             "name": "🎁面包",
-            "type": 3，
-            "api": "csp_XBPQ"，
-            "searchable": 1，
-            "quickSearch": 1，
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "请求头": "User-Agent$MOBILE_UA"，
-                "编码": "UTF-8"，
-                "分类url": "https://v.aiwule.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"，
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://v.aiwule.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影$20#电视剧$21#动漫$23#综艺$22#短剧$47",
                 "简介": "简介：&&"
             }
-        }，
+        },
         {
             "key": "ZXZJ",
             "name": "🏠在线",
@@ -325,13 +325,13 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "7lj763gg402i7942463j9j9jgg449698khhh845ki38473"
-        }，
+        },
         {
             "key": "csp_Jiaozi",
             "name": "🥣饺子",
             "type": 3,
-            "api": "csp_Jiaozi"，
-            "searchable": 1，
+            "api": "csp_Jiaozi",
+            "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
@@ -343,7 +343,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        }，
+        },
         {
             "key": "csp_Ikanbot",
             "name": "👾Ikanbot",
@@ -352,17 +352,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        }，
+        },
         {
             "key": "csp_Lkdy",
             "name": "🏔️来看",
-            "type": 3，
-            "api": "csp_Lkdy"，
+            "type": 3,
+            "api": "csp_Lkdy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://lkvod.com"
-        }，
+        },
         {
             "key": "csp_Jianpian",
             "name": "🧲荐片",
@@ -376,13 +376,13 @@
         {
             "key": "csp_xlys",
             "name": "🧲修罗",
-            "type": 3，
-            "api": "csp_xlys"，
+            "type": 3,
+            "api": "csp_xlys",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://xl01.com.de/"
-        }，
+        },
         {
             "key": "csp_New6v",
             "name": "🧲新6V",
@@ -391,14 +391,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        }，
+        },
         {
-            "key": "csp_DyGod"，
-            "name": "🧲电影天堂"，
+            "key": "csp_DyGod",
+            "name": "🧲电影天堂",
             "type": 3,
             "api": "csp_DyGod",
             "searchable": 1,
-            "quickSearch": 1，
+            "quickSearch": 1,
             "filterable": 1
         },
         {
@@ -413,12 +413,12 @@
         {
             "key": "csp_MeijuTT",
             "name": "🧲美剧天堂",
-            "type": 3，
-            "api": "csp_MeijuTT"，
+            "type": 3,
+            "api": "csp_MeijuTT",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        }，
+        },
         {
             "key": "csp_MeijuMi",
             "name": "🧲美剧迷",
@@ -428,7 +428,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.meijumi.net/"
-        }，
+        },
         {
             "key": "csp_BLSGod",
             "name": "🧲80S影视",
@@ -526,11 +526,11 @@
                 "type": "rect",
                 "ratio": 3.8
             }
-        }，
+        },
         {
             "key": "玩偶gg",
-            "name": "👽玩偶"，
-            "type": 3，
+            "name": "👽玩偶",
+            "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
             "changeable": 0,
@@ -539,20 +539,20 @@
                 "siteUrl": "https://wogg.xxooo.cf",
                 "filter": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/json/wogg.json"
             }
-        }，
+        },
         {
             "key": "片库",
             "name": "🅿片库",
             "type": 3,
-            "api": "csp_Qiwei"，
-            "searchable": 1，
+            "api": "csp_Qiwei",
+            "searchable": 1,
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "siteUrl": "https://www.qwnull.com"，
+                "siteUrl": "https://www.qwnull.com",
                 "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/json/peizhi.json"
             }
-        }，
+        },
         {
             "key": "二小",
             "name": "😈二小",
@@ -565,7 +565,7 @@
                 "siteUrl": "https://erxiaofn.click/",
                 "filter": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/json/wogg.json"
             }
-        }，
+        },
         {
             "key": "至臻",
             "name": "💯至臻",
@@ -921,36 +921,36 @@
             "name": "Web聚合",
             "type": 3,
             "url": "Web"
-        }，
+        },
         {
             "name": "Json聚合",
             "type": 3,
             "url": "Demo"
-        }，
+        },
         {
             "name": "云",
             "type": 0,
             "url": "https://yparse.ik9.cc/index.php?url=",
             "ext": {
                 "flag": [
-                    "qq"，
-                    "腾讯"，
-                    "qiyi"，
-                    "爱奇艺"，
-                    "奇艺"，
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
                     "youku",
                     "优酷",
-                    "mgtv"，
-                    "芒果"，
-                    "letv"，
-                    "乐视"，
-                    "pptv"，
-                    "PPTV"，
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
                     "sohu",
                     "bilibili",
-                    "哔哩哔哩"，
+                    "哔哩哔哩",
                     "哔哩"
-                ]，
+                ],
                 "header": {
                     "User-Agent": "okhttp/4.1.0"
                 }
@@ -964,19 +964,19 @@
                 "flag": [
                     "qq",
                     "腾讯",
-                    "qiyi"，
-                    "爱奇艺"，
-                    "奇艺"，
-                    "youku"，
-                    "优酷"，
-                    "mgtv"，
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
                     "芒果",
                     "letv",
-                    "乐视"，
-                    "pptv"，
+                    "乐视",
+                    "pptv",
                     "PPTV",
-                    "sohu"，
-                    "bilibili"，
+                    "sohu",
+                    "bilibili",
                     "哔哩哔哩",
                     "哔哩"
                 ],
@@ -1123,21 +1123,21 @@
         {
             "name": "量非",
             "hosts": [
-                "lz"，
-                "vip.lz"，
-                "v.cdnlz"，
+                "lz",
+                "vip.lz",
+                "v.cdnlz",
                 "hd.lz",
-                "ffzy"，
-                "vip.ffzy"，
+                "ffzy",
+                "vip.ffzy",
                 "hd.ffzy"
-            ]，
+            ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"，
+                "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
-        }，
+        },
         {
-            "name": "索尼"，
+            "name": "索尼",
             "hosts": [
                 "suonizy",
                 "qrssv.com"
@@ -1155,46 +1155,46 @@
             "regex": [
                 "15.92"
             ]
-        }，
+        },
         {
-            "name": "优质"，
+            "name": "优质",
             "hosts": [
-                "yzzy"，
+                "yzzy",
                 "playback"
             ],
             "regex": [
-                "16.63"，
-                "18.66"，
-                "17.66"，
+                "16.63",
+                "18.66",
+                "17.66",
                 "19.13"
             ]
-        }，
+        },
         {
             "name": "快看",
             "hosts": [
-                "kuaikan"，
+                "kuaikan",
                 "vip.kuaikan"
-            ]，
+            ],
             "regex": [
-                "15.32"，
-                "15.231"，
+                "15.32",
+                "15.231",
                 "18.066"
             ]
-        }，
+        },
         {
             "name": "360",
             "hosts": [
                 "lyhuicheng"
-            ]，
+            ],
             "regex": [
-                "#EXTINF.*?\\s+.*?hrz8QcR9.*?\\.ts\\s+"，
+                "#EXTINF.*?\\s+.*?hrz8QcR9.*?\\.ts\\s+",
                 "#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
-        }，
+        },
         {
             "name": "开源棋牌",
             "hosts": [
-                "askzycdn"，
+                "askzycdn",
                 "jkunbf",
                 "bfikuncdn",
                 "bfaskcdn"
@@ -1203,28 +1203,28 @@
                 "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\r*\n*#EXTINF:3.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
-        }，
+        },
         {
-            "name": "暴风"，
+            "name": "暴风",
             "hosts": [
-                "bfengbf.com"，
-                "bfzy"，
+                "bfengbf.com",
+                "bfzy",
                 "c1"
-            ]，
+            ],
             "regex": [
                 "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
                 "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
-        }，
+        },
         {
             "name": "农民",
             "hosts": [
                 "toutiaovod.com"
-            ]，
+            ],
             "regex": [
                 "video/tos/cn"
             ]
-        }，
+        },
         {
             "name": "火山",
             "hosts": [
@@ -1233,12 +1233,12 @@
             "regex": [
                 "item_id="
             ]
-        }，
+        },
         {
             "name": "抖音",
             "hosts": [
                 "douyin.com"
-            ]，
+            ],
             "regex": [
                 "is_play_url="
             ]
@@ -1247,40 +1247,40 @@
             "name": "磁力",
             "hosts": [
                 "magnet"
-            ]，
+            ],
             "regex": [
-                "最 新"，
-                "直 播"，
+                "最 新",
+                "直 播",
                 "更 新"
             ]
-        }，
+        },
         {
-            "name": "饭团点击"，
+            "name": "饭团点击",
             "hosts": [
-                "dadagui"，
+                "dadagui",
                 "freeok",
                 "dadagui"
-            ]，
+            ],
             "script": [
                 "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
             ]
-        }，
+        },
         {
             "name": "毛驴点击",
             "hosts": [
                 "www.maolvys.com"
-            ]，
+            ],
             "script": [
                 "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
             ]
         }
-    ]，
+    ],
     "doh": [
         {
             "name": "Google",
             "url": "https://dns.google/dns-query",
             "ips": [
-                "8.8.4.4"，
+                "8.8.4.4",
                 "8.8.8.8"
             ]
         },
@@ -1289,8 +1289,8 @@
             "url": "https://cloudflare-dns.com/dns-query",
             "ips": [
                 "1.1.1.1",
-                "1.0.0.1"，
-                "2606:4700:4700::1111"，
+                "1.0.0.1",
+                "2606:4700:4700::1111",
                 "2606:4700:4700::1001"
             ]
         },
@@ -1301,7 +1301,7 @@
                 "94.140.14.140",
                 "94.140.14.141"
             ]
-        }，
+        },
         {
             "name": "DNSWatch",
             "url": "https://resolver2.dns.watch/dns-query",
@@ -1427,52 +1427,52 @@
                     "category": 4,
                     "name": "start-on-prepared",
                     "value": "1"
-                }，
+                },
                 {
                     "category": 1,
                     "name": "http-detect-rangeupport",
                     "value": "0"
-                }，
+                },
                 {
-                    "category": 1，
-                    "name": "fflags"，
+                    "category": 1,
+                    "name": "fflags",
                     "value": "fastseek"
-                }，
+                },
                 {
-                    "category": 2，
-                    "name": "skip_loop_filter"，
+                    "category": 2,
+                    "name": "skip_loop_filter",
                     "value": "48"
-                }，
+                },
                 {
-                    "category": 4，
-                    "name": "reconnect"，
+                    "category": 4,
+                    "name": "reconnect",
                     "value": "1"
-                }，
+                },
                 {
-                    "category": 4，
-                    "name": "enable-accurateeek"，
+                    "category": 4,
+                    "name": "enable-accurateeek",
                     "value": "0"
-                }，
+                },
                 {
-                    "category": 4，
-                    "name": "mediacodec"，
+                    "category": 4,
+                    "name": "mediacodec",
                     "value": "1"
-                }，
+                },
                 {
-                    "category": 4，
-                    "name": "mediacodec-auto-rotate"，
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
                     "value": "1"
-                }，
+                },
                 {
                     "category": 4,
                     "name": "mediacodec-handle-resolution-change",
                     "value": "1"
-                }，
+                },
                 {
                     "category": 4,
                     "name": "mediacodec-hevc",
                     "value": "1"
-                }，
+                },
                 {
                     "category": 1,
                     "name": "dns_cache_timeout",
@@ -1480,9 +1480,9 @@
                 }
             ]
         }
-    ]，
+    ],
     "ads": [
-        "mozai.4gtv.tv"，
+        "mozai.4gtv.tv",
         "pv.vipwm.cc"
     ]
 }
